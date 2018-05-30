@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NaverBlogReader/MasterViewController.swift"
+            timestampString = "549350732.201496"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "MasterViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "variable initialization expression of NaverBlogReader.MasterViewController.naverUrl : Swift.String"
+                  moduleName = "NaverBlogReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sf1/Downloads/NaverBlogReader/NaverBlogReader/MasterViewController.swift"
+                  timestampString = "549350658.843344"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NaverBlogReader.MasterViewController.naverUrl.getter : Swift.String"
+                  moduleName = "NaverBlogReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sf1/Downloads/NaverBlogReader/NaverBlogReader/MasterViewController.swift"
+                  timestampString = "549350658.845449"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NaverBlogReader.MasterViewController.init(style: __C.UITableViewStyle) -&gt; NaverBlogReader.MasterViewController"
+                  moduleName = "NaverBlogReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sf1/Downloads/NaverBlogReader/NaverBlogReader/MasterViewController.swift"
+                  timestampString = "549350658.847963"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NaverBlogReader.MasterViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; NaverBlogReader.MasterViewController"
+                  moduleName = "NaverBlogReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sf1/Downloads/NaverBlogReader/NaverBlogReader/MasterViewController.swift"
+                  timestampString = "549350658.849901"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NaverBlogReader.MasterViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;NaverBlogReader.MasterViewController&gt;"
+                  moduleName = "NaverBlogReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sf1/Downloads/NaverBlogReader/NaverBlogReader/MasterViewController.swift"
+                  timestampString = "549350658.851683"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "257">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
